@@ -82,7 +82,7 @@ const Home: FC = () => {
         />
         <meta
           name='keywords'
-          content='IMGPrompt, Stable Diffusion, Midjourney, Image prompt generation, Visual creativity toolprompt, ai, prompt, 提示词'
+          content='澎蒙AI, Stable Diffusion, Midjourney, Image prompt generation, Visual creativity toolprompt, ai, prompt, 提示词'
         />
       </Head>
       <Layout.Content
@@ -95,7 +95,7 @@ const Home: FC = () => {
             justifyContent: "center",
             alignItems: "center",
           }}>
-          IMGPrompt
+          澎蒙AI-提示词工具
         </Title>
         <Row gutter={[16, 16]}>
           <Col xs={24} lg={18}>
