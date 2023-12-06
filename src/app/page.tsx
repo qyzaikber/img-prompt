@@ -74,11 +74,11 @@ const Home: FC = () => {
     <>
       <Head>
         <title>
-          IMGPrompt - Stable Diffusion 和 Midjourney 的图像提示词生成工具
+          澎蒙AI - Stable Diffusion 和 Midjourney 的图像提示词生成工具
         </title>
         <meta
           name='description'
-          content='IMGPrompt 是一个直观的图像提示词生成工具，可以方便地在 Stable Diffusion 和 Midjourney 的流程中使用，使图像提示词的创建变得简单而有效，轻松激发创意并获得更好的图片结果。通过 IMGPrompt，你可以将自己的创意想法转化为视觉现实。'
+          content='澎蒙AI开发的直观的图像提示词生成工具，可以方便地在 Stable Diffusion 和 Midjourney 的流程中使用，使图像提示词的创建变得简单而有效，轻松激发创意并获得更好的图片结果。通过 IMGPrompt，你可以将自己的创意想法转化为视觉现实。'
         />
         <meta
           name='keywords'
